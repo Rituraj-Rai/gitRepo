@@ -1,0 +1,1 @@
+Prime number has only 2 factors whereas composite has more than 2
